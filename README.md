@@ -28,6 +28,28 @@ The game ends once all cards have been correctly matched.
 
 ## How To Play
 
+This app can be used cloning this repository using `git` command:
+
+```
+$ git clone https://github.com/AsBaZa/Hotel-Clustering-v2
+```
+
+or downloading directly from `https://github.com/AsBaZa/Hotel-Clustering-v2`, clicking on the button:
+
+<p align="center">
+ <img src="images/readme-images/download_button.png">
+</p>
+
+Once the repository is downloaded, it can be opened clicking on the `index.html` file:
+
+<p align="center">
+ <img src="images/readme-images/index.png">
+</p>
+
+The file can be opened with the newest versions of web browsers such as [Firefox](https://www.mozilla.org/), [Google Chrome](https://www.google.com/chrome/), [Opera](https://www.opera.com/), [Safari](https://www.apple.com/safari/) or [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge). However, the app is not compatible with older web browsers such as [Internet Explorer](https://www.microsoft.com/download/internet-explorer.aspx).
+
+**Note:** No internet connection is required.
+
 The player must click on the cards to flip them over:
 
 <p align="center">
