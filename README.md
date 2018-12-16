@@ -2,8 +2,7 @@ Matching Game
 ================
 
 In this project, a simple game has been written using html, css and
-JavaScript. The board shown at the beginning of the game is the next
-one:
+JavaScript. It has been done for the [Front-End Web Developer Nanodegree](https://eu.udacity.com/course/front-end-web-developer-nanodegree--nd001) in the [Udacity](https://eu.udacity.com/) platform and the board shown at the beginning of the game is the next one:
 
 <p align="center">
 
