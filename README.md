@@ -6,7 +6,7 @@ JavaScript. It has been done for the [Front-End Web Developer Nanodegree](https:
 
 <p align="center">
 
-<img src="images/Beginning.png">
+<img src="images/readme-images/Beginning.png">
 
 </p>
 
@@ -54,7 +54,7 @@ The player must click on the cards to flip them over:
 
 <p align="center">
 
-<img src="images/Click.png">
+<img src="images/readme-images/Click.png">
 
 </p>
 
@@ -65,7 +65,7 @@ Once 2 cards are clicked:
 
 <p align="center">
 
-<img src="images/Wrong.png">
+<img src="images/readme-images/Wrong.png">
 
 </p>
 
@@ -73,7 +73,7 @@ Once 2 cards are clicked:
 
 <p align="center">
 
-<img src="images/Correct.png">
+<img src="images/readme-images/Correct.png">
 
 </p>
 
@@ -82,13 +82,13 @@ be shown.
 
 <p align="center">
 
-<img src="images/Finish1.png">
+<img src="images/readme-images/Finish1.png">
 
 </p>
 
 <p align="center">
 
-<img src="images/Finish2.png">
+<img src="images/readme-images/Finish2.png">
 
 </p>
 
@@ -99,7 +99,7 @@ game:
 
 <p align="center">
 
-<img src="images/Time.png">
+<img src="images/readme-images/Time.png">
 
 </p>
 
@@ -107,7 +107,7 @@ The number of clicks during the game:
 
 <p align="center">
 
-<img src="images/Clicks.png">
+<img src="images/readme-images/Clicks.png">
 
 </p>
 
@@ -116,7 +116,7 @@ time spent finishing the game):
 
 <p align="center">
 
-<img src="images/Stars.png">
+<img src="images/readme-images/Stars.png">
 
 </p>
 
@@ -127,6 +127,6 @@ In order to restart the game, there are 2 buttons.
 
 <p align="center">
 
-<img src="images/Restart.png">
+<img src="images/readme-images/Restart.png">
 
 </p>
