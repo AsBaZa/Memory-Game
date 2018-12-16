@@ -31,10 +31,10 @@ The game ends once all cards have been correctly matched.
 This app can be used cloning this repository using `git` command:
 
 ```
-$ git clone https://github.com/AsBaZa/Hotel-Clustering-v2
+$ git clone https://github.com/AsBaZa/Memory-Game
 ```
 
-or downloading directly from `https://github.com/AsBaZa/Hotel-Clustering-v2`, clicking on the button:
+or downloading directly from `https://github.com/AsBaZa/Memory-Game`, clicking on the button:
 
 <p align="center">
  <img src="images/readme-images/download_button.png">
