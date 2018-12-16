@@ -1,0 +1,200 @@
+body, html {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: "Dancing Script";
+  font-size: 16px;
+  color: #424242;
+}
+
+h1, h2, h3, h4, h5 {
+  margin: 0;
+}
+
+
+header, div {
+  box-sizing: border-box;
+}
+
+
+
+/*
+ *
+ * Header
+ *
+ */
+
+
+header {
+  width: 100%;
+  margin-top: 5px;
+  display: flex;
+}
+
+.central {
+  width: 40%;
+  text-align: center;
+}
+
+.timer {
+  width: 30%;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  font-size: 26px;
+}
+
+.mov-stars-redo {
+  width: 30%;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.fa-star {
+  width: 30%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.movements{
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 12px;
+  font-size: 22px;
+}
+
+.redo {
+  cursor: pointer;
+  margin-top: 12px;
+}
+
+.header__title {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header__hr {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+  height: 3px;
+  background-color: #02b3e4;
+  border: 0;
+  padding: 1px;
+  border-radius: 12px;
+}
+
+ .header__logo {
+   display: block;
+   height: 72px;
+   margin-left: auto;
+   margin-right: auto;
+ }
+
+
+
+/*
+ *
+ * Main Table
+ *
+ */
+
+  .main_table{
+    box-shadow: 10px 5px 5px;
+    background-color: #02b3e4;
+    width: 100%;
+    max-width: 500px;
+    border-radius: 12px;
+    margin: 15px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+
+  .square{
+    background: #003366 url("../images/udacity-logo.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 80% 80%;
+    width: 21%;
+    margin: 2%;
+    border-radius: 12px;
+    padding-top: 21%;
+    cursor: pointer;
+  }
+
+  .icons{
+    width: 100%;
+    display: block;
+    text-align: center;
+    padding: 10px;
+  }
+
+  /*
+   *
+   * Final Message
+   *
+   */
+
+   .congr {
+     margin-top: 70px;
+     margin-bottom: 70px;
+     text-align: center;
+     display: none;
+   }
+
+  button {
+    background-color: #02b3e4;
+    border: none;
+    color: white;
+    border-radius: 8px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  /*
+  *
+  * Shake Effect
+  *
+  */
+
+   /* Standard syntax */
+   @keyframes shake {
+       0% { transform: translate(1px, 1px) rotate(0deg); }
+       10% { transform: translate(-1px, -2px) rotate(-1deg); }
+       20% { transform: translate(-3px, 0px) rotate(1deg); }
+       30% { transform: translate(3px, 2px) rotate(0deg); }
+       40% { transform: translate(1px, -1px) rotate(1deg); }
+       50% { transform: translate(-1px, 2px) rotate(-1deg); }
+       60% { transform: translate(-3px, 1px) rotate(0deg); }
+       70% { transform: translate(3px, 1px) rotate(-1deg); }
+       80% { transform: translate(-1px, -1px) rotate(1deg); }
+       90% { transform: translate(1px, 2px) rotate(0deg); }
+       100% { transform: translate(1px, -2px) rotate(-1deg); }
+   }
+
+
+/*
+ *
+ * Main
+ *
+ */
+
+main {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
